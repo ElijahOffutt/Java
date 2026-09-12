@@ -10,8 +10,7 @@ tags:
 ---
 # Java Mastery & Education Overview (WIP)
 ---
-![[Pasted image 20260911130110.png]]
-
+![Pasted image](https://raw.githubusercontent.com/ElijahOffutt/Java/main/Assets%20%26%20Attachments/Pasted%20image%2020260911130110.png)
 ---
 > *“Java is C++ without the guns, knives, and clubs.”* — **James Gosling**
 ---
