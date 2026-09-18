@@ -1,4 +1,5 @@
 .obsidian
 .vscode
 
-TEMPLATES.md
+/TEMPLATES
+/TEMPLATES/*

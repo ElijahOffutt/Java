@@ -4,3 +4,5 @@ The following is the index and curriculum. The indented outcome of this exam is 
 
 Each folder corresponds to a concept in Java as well as includes a small project to demonstrate understanding along with a README outlines this as a whole for that corresponding concept. 
 
+- [ ] **[[Features#What is Java?| What is Java]]** 
+- [ ] **[[00 JRE & JDK#Basics | Basics]]** 
